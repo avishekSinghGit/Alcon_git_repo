@@ -1,0 +1,25 @@
+Admin:
+ Username: "admin@com.
+ Password: "srevds123!"
+
+#opsmgrsit:
+ #Username: "opsmgr@.com.
+ #Password: "test23!"
+
+#opsrepsit:
+ #Username: "opsrep@.com.
+ #Password: "test23!"
+
+salesrepsit:
+ Username: "salesrep@.com.
+ Password: "test23!"
+
+salesmgrsit:
+ Username: "salesmgr@.com.
+ Password: "test23!"
+
+salesopssit:
+ Username: "salesops@.com.
+ Password: "test23!"
+
+

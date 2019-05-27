@@ -1,0 +1,5 @@
+---
+opportunity_details:
+ SSI_Result_Reason: ["CS - Backdated - BKD", "CS - Co-term Long - CTL", "CS - Co-term Short - CTS", "CS - Discount - DIS", "CS - Multi-year Advance - MYA", "CS - Pricing Change - PRC", "CS - Re-Cert Fee Included - RCT", "CS - Service Downgrade - DNG", "CS - Service Upgrade - UPG", "CS - Uncovered – UNC", "HA - Bad Data - BDT", "HA - Cancelled - CNL", "HA - Covered - COV", "HA - Duplicate - DUP", "HA - End Of Support - EOL", "HA - Evergreen Billing - EVG", "HA - International - INT", "HA - Lease - LEA", "HA - OEM Customer - OEM", "HA - Other - OTH", "HA - Product Return - PRT", "HA - Sales Pull Back – SPB", "NS - Client Product Replacement - PTR", "NS - Competitive DVAR - SCV", "NS - Competitive Product Replacement - PCP", "NS - Competitive Service Loss Other - SCS", "NS - Customer Cost-Benefit Decision - SCB", "NS - Customer No Longer Exists – RNE", "NS – No Perceived Value – NPV", "NS – No Budget - BUG", "NS – Third Party Price – TPP", "NS – Third Party Satisfaction Issue – TPS", "NS – Price – PRC", "NS – In House Support – HIS", "NS – Unresponsive End User - UNR"]
+
+

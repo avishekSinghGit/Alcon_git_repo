@@ -1,0 +1,25 @@
+Users:
+ Sheetname: "Users"
+ LastName: "D"
+ FirstName: "E"
+ UserName: "C"
+ Persona: "G"
+ UserStatus: "F"
+ Profile: "H"
+ Start_Row: 3
+ File_Path: "D:\\cucumber-projects\\Guidance\\Guidance\\Guidance_Configuration_Guide_v2 1.xlsx"
+
+ExchangeRate:
+ Sheetname: "FicoExchangeRate"
+ Currency Code: "A"
+ Exchange Rate: "B"
+ Start Date: "C"
+ End Date: "D"
+ Year: "F"
+ Start_Row: 2
+ File_Path: "D:\\cucumber-projects\\Guidance\\Guidance\\Guidance_Configuration_Guide_v2 1.xlsx"
+
+
+CommonData:
+  Health Status: ["Black","Green","Red"]
+  Health Status Reason: ["No Risk perceived- Customer Healthy","No Risk - upsell/cross sell opportunity","Customer Unresponsive","Customer Success - Escalation","Customer Success – General Inquiry","Customer Success – Service/Maintenance Request","Customer Success – Pricing/Contract Request","Risk – Lack of use: Training","Risk – Lack of use: Product Complexity","Risk – Lack of use: Value perception","Risk – Lack of use: Change in business/needs","Risk – Lack of use: Change management","Risk – Lack of use: Downgrade or downsell","Risk – Price: Cost of product/service","Risk – Price: Budget","Risk – Price: Value vs T&M","Risk – Price: Value vs T&M (Unattached Customer Preference)","Risk – Price: Value vs T&M (Unattached Product/Service Preference)","Risk – Price: Value Perception","Risk – Competitor: 3rd party","Risk – Competitor: In-house","Risk – Competitor: Product Replacement","Risk – Competitor: Pricing","Risk – Competitor: Unique Offering","Risk – Product/Service performance: Performance issues","Risk – Product/Service performance: Over-sold","Risk – Product/Service performance: Not meeting outcomes","Risk – Product/Service performance: EOL","Risk – Product/Service performance: Product Replacement (internal)","Risk -  CSAT : Poor customer experience","Risk – Cease of Business: Out of Business","Risk – Cease of Business: M&A","Risk – Cease of Business: Bankruptcy"]
